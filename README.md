@@ -8,7 +8,7 @@ following:
 
 * Use new technology - SaaS website interface
 * Solve current office problems or streamline existing ones.
-* An easy to use interface for inputing data as well as creating reports on data that has been entered ovr time.
+* An easy to use interface for inputing data as well as creating reports on data that has been entered over time.
 
 
 ## Authors

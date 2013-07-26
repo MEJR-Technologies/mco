@@ -1,0 +1,22 @@
+[{
+    text:'System Admin',
+    expanded: true,
+    cls:'mco-tree-node',    
+    children:[{
+        text:'Churches',
+        id:'mcoAdminTreeLeaf-Churches-sysadmin/churches/',
+        leaf:true
+    },{
+        text:'Users',
+        id:'mcoAdminTreeLeaf-Users-sysadmin/users/',
+        leaf:true    
+    },{
+        text:'Modules',
+        id:'mcoAdminTreeLeaf-Modules-sysadmin/modules/',
+        leaf:true    
+    },{
+        text:'GEO Map',
+        id:'mcoAdminTreeLeaf-GeoMap-sysadmin/geomap/',
+        leaf:true    
+    }]
+}]

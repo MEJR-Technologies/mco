@@ -1,0 +1,10 @@
+[{
+    text:'Application Navigation',
+    expanded: true,
+    cls:'mco-tree-node',    
+    children:[{
+        text:'Attendance',
+        id:'mcoAdminTreeLeaf-Attendance-attendance/',
+        leaf:true
+    }]
+}]

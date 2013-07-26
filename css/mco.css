@@ -1,0 +1,57 @@
+html, body {
+	font:normal 12px verdana;
+	margin:0;
+	padding:0;
+	border:0 none;
+	overflow:hidden;
+	height:100%;
+}
+p {
+	margin:5px;
+}
+.settings {
+	background-image:url(../images/icons/folder_wrench.png);
+}
+.nav {
+	background-image:url(../images/icons/folder_go.png);
+}
+.admin {
+	background-image:url(../images/icons/folder_wrench.png);
+}
+.plugin{
+	background-image:url(../images/plugin_add.png);
+}
+.dbEdit{
+	background-image:url(../images/database_edit.png);
+}	
+.save {
+	background-image:url(../images/disk.png);
+}
+.dbDelete {
+	background-image:url(../images/database_delete.png);
+}
+.dbAdd {
+	background-image:url(../images/database_add.png);
+}
+.helpIcon {
+	background-image: url(../images/icons/help.png) !important;
+}
+
+.x-tree-node div.mco-tree-node{
+    background:#eee;
+    font-size:12px;
+    font-weight:bold;
+    margin-top:1px;
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    padding-top:2px;
+    padding-bottom:1px;
+}
+
+.x-tree-selected {			
+	background:#DFE8F6;
+}		
+
+.x-tree-node-icon {
+	display:none;
+}	

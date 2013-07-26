@@ -1,0 +1,22 @@
+[{
+    text:'Church Setup',
+    expanded: true,
+    cls:'mco-tree-node',    
+    children:[{
+        text:'Gatherings',
+        id:'mcoAdminTreeLeaf-Gatherings-admin/gatherings/',
+        leaf:true
+    },{
+        text:'Users',
+        id:'mcoAdminTreeLeaf-Users-admin/users/',
+        leaf:true    
+    },{
+        text:'Events',
+        id:'mcoAdminTreeLeaf-Events-admin/events/',
+        leaf:true    
+    },{
+        text:'Event Types',
+        id:'mcoAdminTreeLeaf-Event Types-admin/eventtypes/',
+        leaf:true    
+    }]
+}]
